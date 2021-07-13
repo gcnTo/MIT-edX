@@ -26,5 +26,5 @@ elif (lang == "TR"):
     print("Yazdığınız kelimede "+ str(sayac) +" tane sesli harf var. ")
 
 else:
-    print("\nGeçersiz bir dil paketi seçtiniz.\n\nYou picked the wrong house fool :)")
+    print("\nGeçersiz bir dil paketi seçtiniz.\n\nInvalid language pack.")
 
